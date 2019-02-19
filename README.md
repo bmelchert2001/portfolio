@@ -1,3 +1,3 @@
 # Portfolio
-Serving as a website to hold files about myself, other than coding and projects, which other professionals might find informative.
-For coding and research projects, please visit my other repositories.
+Serving as a URL to hold professional files about my background, specifically slideshows of my academic projects, which other professionals might find interesting.
+For coding related to my projects, please visit my other repositories.
